@@ -1,0 +1,75 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar-custom .nav-item .nav-link {
+  color: #fff;
+}
+.cuppon {
+  width: 86px;
+  height: 25px;
+
+}
+.card-img-top{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.card-text {
+  font-size: 16px;
+  color: #707070;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+}
+
+.price {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.card-price {
+  font-size: 16px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+.price-secundary {
+  font-weight: 500;
+  font-size: 20px;
+  color:#28A745;
+}
+.direction {
+  color: #707070;
+  font-size: 13px;
+  font-weight: 300;
+}
+.title {
+  color: #212529;
+  font-size: 20px;
+  font-weight: 300;
+  opacity: 100%;
+  padding-bottom: 11px;
+}
+
+.cuppon-footer {
+  display: flex;
+  justify-content: center;
+
+}
+.fondo{
+    background-color: #28A745;
+}
+.my-toggler{
+    color: #fff !important;
+    border-color: #fff !important;
+  
+}
+.my-button{
+    font-weight: bold;
+    font-size: large;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.navbar {
+    padding: 0px !important;
+}
